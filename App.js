@@ -27,8 +27,7 @@ export default function App() {
     console.log(id);
     //vamos a ver el ultimo estado
     setCourseGoals(currentGoals => {
-      return currentGoals.filter((goal) =>goal.id !== id);}
-    )
+      return currentGoals.filter((goal) =>goal.id !== id);}   )
   }
 
   return (
