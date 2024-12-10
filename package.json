@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "homepage": "https://nakamavg.github.io/goalsapp",
+  "homepage": "https://nakamavg.github.io/NativefirstApp/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
